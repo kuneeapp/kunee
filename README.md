@@ -23,3 +23,5 @@ Any described on-chain activity is **operator-only testing**, not evidence of a 
 - [Contracts](https://github.com/kuneeapp/kunee-contracts)
 
 For questions, contact [support@kunee.app](mailto:support@kunee.app).
+
+[Documentation preview release](https://github.com/kuneeapp/kunee/releases/tag/v0.1.0-preview) · Not a production software release.
