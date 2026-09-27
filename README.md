@@ -10,7 +10,7 @@ KUNEE is a project space for privacy-focused product work. This folder contains 
 
 ## Status and safety
 
-The `0.1.0-preview` documentation-only prerelease is planned; it is not a product release. This material makes no claim of production readiness, security review, or public availability. It includes no live service configuration, user records, credentials, private key material, or executable app source. Keep any future examples synthetic and non-deployable.
+The documentation-only preview is not a product release. This material makes no claim of production readiness, security review, or public availability. It includes no live service configuration, user records, credentials, private key material, or executable app source. Keep any future examples synthetic and non-deployable.
 
 Any described on-chain activity is **operator-only testing**, not evidence of a public release or authorization to use funds. For contract and deployment information, use only the [deployment record](https://github.com/kuneeapp/kunee-contracts/blob/main/DEPLOYMENTS.md). Do not infer public availability from a successful test.
 
@@ -24,4 +24,8 @@ Any described on-chain activity is **operator-only testing**, not evidence of a 
 
 For questions, contact [support@kunee.app](mailto:support@kunee.app).
 
-[Documentation preview release](https://github.com/kuneeapp/kunee/releases/tag/v0.1.0-preview) · Not a production software release.
+## Open-source scope
+
+The material **in this repository** is available under the [MIT License](./LICENSE). Contributions to this repository are licensed the same way. The KUNEE application, unreleased source code, private infrastructure, and material outside this repository are **not** included. The license grants no rights to the KUNEE name or logos as trademarks and does not authorize use of any live service or operator-only contract.
+
+[Licensed documentation preview](https://github.com/kuneeapp/kunee/releases/tag/v0.1.1-preview) · Not a production software release.

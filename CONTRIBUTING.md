@@ -2,6 +2,8 @@
 
 Thanks for taking the time to improve KUNEE project materials. This is a documentation-only sample; contributions here do not modify or constitute the application.
 
+By contributing, you agree to license your contributions to this repository under its [MIT License](./LICENSE). Only contribute work you have the right to license; this does not license the KUNEE application or its trademarks.
+
 ## Before making a change
 
 1. Keep changes focused, readable, and in English.
